@@ -72,4 +72,4 @@ We would like to acknowledge the following resources and libraries that contribu
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to reach out to the project maintainer at souravprasad1869@gmail.com.
+If you have any questions or suggestions regarding this project, please feel free to reach out to the project maintainer at rajatrajnke@gmail.com.
