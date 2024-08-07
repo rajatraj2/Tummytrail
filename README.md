@@ -41,7 +41,7 @@ This repository contains the Flutter project for a food delivery app user interf
 2. Clone this repository to your local machine using the following command:
 
 ```bash
-https://github.com/nerd-sourav/Tummy-Tail.git
+https://github.com/rajatraj2/Tummytrail/
 ```
 
 3. Change into the project directory:
